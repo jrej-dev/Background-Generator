@@ -26,7 +26,7 @@ h3 {
 
 }
 
-.myButton {
+.random {
     -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
     -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
     box-shadow:inset 0px 1px 0px 0px #ffffff;
@@ -52,7 +52,7 @@ h3 {
     text-decoration:none;
     text-shadow:0px 1px 0px #ffffff;
 }
-.myButton:hover {
+.random:hover {
     background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed));
     background:-moz-linear-gradient(top, #dfdfdf 5%, #ededed 100%);
     background:-webkit-linear-gradient(top, #dfdfdf 5%, #ededed 100%);
@@ -62,7 +62,7 @@ h3 {
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed',GradientType=0);
     background-color:#dfdfdf;
 }
-.myButton:active {
+.random:active {
     position:relative;
     top:1px;
 }
